@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/CarlosLHP.lwc-ktof9gua-fork-ktofif90",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve LWoWXr9B6dJ96u3Vth1d --open"
+  }
+}
